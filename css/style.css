@@ -8,7 +8,7 @@ body {
 }
 .header-wrapper {
     position: relative;
-        background-image: url("/images/background-image.jpg");
+        background-image: url("images/background-image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100vh);
@@ -50,7 +50,7 @@ nav ul {
 nav ul li a {
     padding: 0 20px;
     text-decoration: none;
-    color: #000;
+    color: #fff;
     display: inline-block;
 
 }
